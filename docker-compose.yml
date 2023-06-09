@@ -4,7 +4,7 @@ x-uffizzi:
     port: 3000
     
 services:
-  app:
+  aeil:
     build: .
     ports:
       - "3000:3000"
